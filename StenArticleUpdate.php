@@ -6,6 +6,8 @@ use Shopware\Components\Plugin;
 use Shopware\Components\Plugin\Context\InstallContext;
 use Shopware\Components\Plugin\Context\UninstallContext;
 
+
+
 class StenArticleUpdate extends Plugin
 {
     /**
